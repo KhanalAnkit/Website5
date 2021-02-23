@@ -48,6 +48,7 @@
     width:500px;
     
 }
+
 .h4-result{
     width:90%;
 }
@@ -65,4 +66,13 @@
 table{
     font-weight: bold;
     height: 500px;;
+}
+@media (max-width:760px){
+    .body{
+        flex-direction:column
+
+    }
+    .table{
+        margin-top:10px;
+    }
 }
