@@ -1,4 +1,4 @@
-alert("Note:This website is not mobile responsive:)");
+
 function sort(){
     let n1=document.querySelector("#input-1").value;
     let n2=document.querySelector("#input-2").value;
