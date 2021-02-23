@@ -69,7 +69,7 @@ table{
 }
 @media (max-width:760px){
     .body{
-        flex-direction:column
+        flex-direction:column;
 
     }
     .table{
